@@ -1,0 +1,5 @@
+{
+  "name": "Gemini A2UI Streamer",
+  "description": "A robust demonstration of A2UI (AI to UI) using Gemini streaming to incrementally render React components from generated JSON structures.",
+  "requestFramePermissions": []
+}
